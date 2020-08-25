@@ -8,7 +8,7 @@ MP3 player with python using Tkinter GUI apps
 ![Starting interface](Images/demo.png) 
 
 #### To add one/many songs
-![adding song] (Images/add song.png)
+![adding song] (Images/addsong.png)
 
 #### TO delete selected/all songs
-![adding song] (Images/delete song.png)
+![adding song] (Images/deletesong.png)

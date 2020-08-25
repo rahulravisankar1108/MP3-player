@@ -5,4 +5,4 @@ MP3 player with python using Tkinter GUI apps
 - Python
 
 #### Interface
-![Starting interface](Images/demo) 
+![Starting interface](Images/demo.png) 
